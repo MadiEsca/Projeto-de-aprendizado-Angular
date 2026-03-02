@@ -92,7 +92,7 @@ http
 
 Da mesma forma que nos os parâmetros da url, é possível criar uma instancia de configuração para os *H*
 
-*eaders*, por meio do [`HttpHeaders`](https://angular.dev/api/common/http/HttpHeaders).
+*Headers*, por meio do [`HttpHeaders`](https://angular.dev/api/common/http/HttpHeaders).
 
 ```ts
 const baseHeaders = new HttpHeaders().set('X-Debug-Level', 'minimal');
