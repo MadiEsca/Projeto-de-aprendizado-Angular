@@ -1,0 +1,3 @@
+[submodule "aplicativo-aprendizado-angular"]
+	path = aplicativo-aprendizado-angular
+	url = https://github.com/MadiEsca/aplicativo-aprendizado-angular.git
